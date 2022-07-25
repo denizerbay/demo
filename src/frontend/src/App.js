@@ -222,7 +222,7 @@ function App() {
                 </div>
             </Content>
             <Footer style={{textAlign: 'center'}}>
-                Demo 2
+                <Divider>Demo</Divider>
             </Footer>
         </Layout>
     </Layout>
